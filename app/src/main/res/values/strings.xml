@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LinkedListTestApplication</string>
+    <string name="list_empty">LinkedList does not contain any Nodes.</string>
+
+</resources>
